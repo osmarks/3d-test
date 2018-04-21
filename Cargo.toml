@@ -1,0 +1,8 @@
+[package]
+name = "test"
+version = "0.1.0"
+authors = ["osmarks <osmarks@protonmail.com>"]
+
+[dependencies]
+luminance = "*"
+luminance-glfw = "*"
